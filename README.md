@@ -2,16 +2,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flizhming%2Fhit-counter)](https://github.com/lizhming)
 ### **_Contact Details_**
 <p align='center'>
-<a href="https://join.skype.com/uSaUJQtDGbCQ">
+<a href="https://join.skype.com/">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://discord.gg/2NphEwYs">
+<a href="https://discord.gg/">
   <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:li.zhming@outlook.com">
+<a href="mailto:josephchan0122@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://t.me/lizhming">
+<a href="https://t.me/">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
@@ -19,14 +19,14 @@
 ### **_Skills_**
 <table>
   <tr>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_pancake.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_metamask.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/lizhming/lizhming/blob/main/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/josephchan0122/josephchan0122/blob/main/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/josephchan0122/josephchan0122/blob/main/icons/icon_defi.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/josephchan0122/josephchan0122/blob/main/icons/icon_pancake.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/josephchan0122/josephchan0122/blob/main/icons/icon_solidity.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/josephchan0122/josephchan0122/blob/main/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/josephchan0122/josephchan0122/blob/main/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/josephchan0122/josephchan0122/blob/main/icons/icon_pivx.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/josephchan0122/josephchan0122/blob/main/icons/icon_bitcoin.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
@@ -48,22 +48,22 @@
     <tr>
         <td>
             <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/PotatoPowerClub.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/PotatoPowerClub.png?raw=true" width="200">
             </a>
         </td>
         <td>
             <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/CryptoPig.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/CryptoPig.png?raw=true" width="200">
             </a>
         </td> 
         <td>
             <a href="https://funkifoxes.com/">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/FunkiFoxes.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/FunkiFoxes.png?raw=true" width="200">
             </a>
         </td>
         <td>
             <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/GekoSave0.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/GekoSave0.png?raw=true" width="200">
             </a>
         </td>                
     </tr>
@@ -82,22 +82,22 @@
     <tr>
         <td>
             <a href="https://nftmania.app/">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/nftmania.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/nftmania.png?raw=true" width="200">
             </a>
         </td>        
         <td>
             <a href="https://latitud.art/">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/latitud.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/latitud.png?raw=true" width="200">
             </a>
         </td> 
         <td>
             <a href="https://lunachownft.com/">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/LunachowNFT.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/LunachowNFT.png?raw=true" width="200">
             </a>
         </td> 
         <td>
             <a href="https://gekosave.io/marketplace">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/GekoSave1.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/GekoSave1.png?raw=true" width="200">
             </a>
         </td>     
     </tr>
@@ -115,17 +115,17 @@
     <tr>
         <td>
             <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/cosmicswap.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/cosmicswap.png?raw=true" width="200">
             </a>
         </td>          
         <td>
             <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/ddexinfo.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/ddexinfo.png?raw=true" width="200">
             </a>
         </td>   
         <td>
             <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/maticswap.png?raw=true" width="200">
+                <img src="https://github.com/josephchan0122/josephchan0122/blob/main/projects/maticswap.png?raw=true" width="200">
             </a>
         </td> 
     </tr>  
@@ -138,7 +138,7 @@
 - Token Bridge, Block Explorer.
 - Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
 <!--
-**lizhming/lizhming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**josephchan0122/josephchan0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
