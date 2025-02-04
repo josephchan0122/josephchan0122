@@ -159,5 +159,5 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/github/forks/lizhming/productive-box"/>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lizhming&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=josephchan0122&show_icons=true&theme=radical)
 ![footer](https://capsule-render.vercel.app/api?section=footer)
